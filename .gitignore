@@ -1,0 +1,12 @@
+
+*.cache
+*.dll
+PartyInvites/obj/PartyInvites.csproj.nuget.g.props
+PartyInvites/wwwroot/
+PartyInvites/bin/
+PartyInvites/Migrations/
+PartyInvites/obj/
+.vscode/
+Tests/bin/
+Tests/obj/
+
